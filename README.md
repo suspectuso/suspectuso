@@ -1,8 +1,8 @@
 <img src="./assets/profile-opening.png" width="100%" alt="suspectuso — mascot in a green frog hoodie" />
 
 <p align="center">
-  <a href="https://t.me/zkprooff">Telegram</a> ·
-  <a href="mailto:dev@suspectus.ru">Email</a>
+  <a href="https://t.me/zkprooff"><img src="./assets/contact-telegram.svg" width="160" height="56" alt="Telegram" /></a>
+  <a href="mailto:dev@suspectus.ru"><img src="./assets/contact-email.svg" width="160" height="56" alt="Email: dev@suspectus.ru" /></a>
 </p>
 
 <img src="https://raw.githubusercontent.com/suspectuso/suspectuso/main/divider.svg" width="100%" alt="" />
@@ -40,4 +40,4 @@ Security and backend engineer. I work on application security, Telegram infrastr
 - CTF: T-CTF, AlfaCTF ×2, organiser of SUAI CTF.
 - NSU Summer School on Cryptography — research track, co-author of a publication.
 
-<img src="./assets/profile-closing.png" width="100%" alt="Mascot waving goodbye" />
+<img src="./assets/profile-closing.png" width="100%" alt="Let’s build something — mascot waving goodbye" />
