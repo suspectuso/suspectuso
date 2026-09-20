@@ -40,4 +40,4 @@ Security and backend engineer. I work on application security, Telegram infrastr
 - CTF: T-CTF, AlfaCTF ×2, organiser of SUAI CTF.
 - NSU Summer School on Cryptography — research track, co-author of a publication.
 
-<img src="./assets/profile-closing.png" width="100%" alt="Let’s build something — mascot waving goodbye" />
+<img src="./assets/profile-closing.png?v=a278540" width="100%" alt="Let’s build something — mascot waving goodbye" />
