@@ -21,6 +21,7 @@ Security and backend engineer. I work on application security, Telegram infrastr
 
 | Project | Engineering scope |
 |---|---|
+| [guap-alice](https://github.com/suspectuso/guap-alice) | Alice voice skill for university schedules. Parses a weekly template with upper/lower week parity, keeps dialogue state across turns, and answers behind a 2.8s budget with a stale-cache fallback so the skill never goes silent. FastAPI, 73 tests, live over HTTPS. |
 | [TonCalls](https://github.com/suspectuso/TonCalls) | Contract screener across 65+ Telegram channels and 233 TON pools, 25K API requests a day, with rate limiting that removed 429 throttling across 121 goroutines. |
 | [skill-tg](https://github.com/suspectuso/skill-tg) | Production toolkit for Telegram bots in aiogram 3 and Go telebot: Stars payments, crypto gateways with HMAC webhook verification, subscription flows, broadcasts with idempotency. |
 | [mooni-public](https://github.com/suspectuso/mooni-public) | Mooni — AI guide to St. Petersburg as a Telegram Mini App. Public snapshot. |
