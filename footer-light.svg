@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 90" width="1200" height="90" role="presentation">
+  <defs><linearGradient id="fb" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#ffffff"/><stop offset="100%" stop-color="#eef1f5"/></linearGradient>
+    <linearGradient id="fa" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#7c3aed"/><stop offset="100%" stop-color="#0d9488"/></linearGradient></defs>
+  <rect width="1200" height="90" fill="url(#fb)"/>
+  <rect x="0" y="87" width="1200" height="3" fill="url(#fa)"/>
+  <text x="600" y="52" text-anchor="middle" fill="#57606a" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="14" letter-spacing="1.5">building secure systems &#183; dev@suspectus.ru</text>
+</svg>
