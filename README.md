@@ -5,7 +5,7 @@
   <a href="mailto:dev@suspectus.ru"><img src="./assets/contact-email.svg" width="160" height="56" alt="Email: dev@suspectus.ru" /></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/suspectuso/suspectuso/main/divider.svg" width="100%" alt="" />
+<img src="./assets/divider-mint.svg" width="100%" alt="" />
 
 ### Profile
 
@@ -15,7 +15,7 @@ Security and backend engineer. I work on application security, Telegram infrastr
 
 **Security:** OWASP Top 10, OWASP ASVS L2, OWASP ML Top 10, MITRE ATLAS, adversarial ML, AES-256-GCM, HMAC, RBAC, OAuth2/JWT.
 
-<img src="https://raw.githubusercontent.com/suspectuso/suspectuso/main/divider.svg" width="100%" alt="" />
+<img src="./assets/divider-mint.svg" width="100%" alt="" />
 
 ### Selected engineering work
 
@@ -29,7 +29,7 @@ Security and backend engineer. I work on application security, Telegram infrastr
 | **Sirius Argus** | MLSecOps platform built on the Sirius × Alfa-Bank programme: model discovery, secure supply chain, adversarial validation with ART, runtime protection, hash-chain tamper-evident audit. Aligned to MITRE ATLAS and OWASP ML Top 10. |
 | **Mediascope case** · AI BUSINESS SPb | ML labelling of search queries for video content: embeddings, classifier and confidence-based routing. 92% accuracy. Winner of the Mediascope case. Python, scikit-learn, Yandex Cloud. |
 
-<img src="https://raw.githubusercontent.com/suspectuso/suspectuso/main/divider.svg" width="100%" alt="" />
+<img src="./assets/divider-mint.svg" width="100%" alt="" />
 
 ### Education & recognition
 
