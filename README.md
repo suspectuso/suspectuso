@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suspectuso/suspectuso/main/header-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suspectuso/suspectuso/main/header-light.svg" />
-  <img src="https://raw.githubusercontent.com/suspectuso/suspectuso/main/header-dark.svg" width="100%" alt="Grigory Zaitsev — Security & Backend Engineer" />
-</picture>
+<img src="./assets/profile-opening.png" width="100%" alt="suspectuso — mascot in a green frog hoodie" />
 
 <p align="center">
   <a href="https://t.me/zkprooff">Telegram</a> ·
@@ -44,8 +40,4 @@ Security and backend engineer. I work on application security, Telegram infrastr
 - CTF: T-CTF, AlfaCTF ×2, organiser of SUAI CTF.
 - NSU Summer School on Cryptography — research track, co-author of a publication.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suspectuso/suspectuso/main/footer-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suspectuso/suspectuso/main/footer-light.svg" />
-  <img src="https://raw.githubusercontent.com/suspectuso/suspectuso/main/footer-dark.svg" width="100%" alt="" />
-</picture>
+<img src="./assets/profile-closing.png" width="100%" alt="Mascot waving goodbye" />
